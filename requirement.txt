@@ -1,3 +1,4 @@
+
 this is a application 
 color blue
 
@@ -7,3 +8,7 @@ vibrant
 
 dark mode 
 video call
+
+frequent chnages 
+white move 
+border
