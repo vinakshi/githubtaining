@@ -4,3 +4,6 @@ color blue
 emoji
 type of option
 vibrant  
+
+dark mode 
+video call
